@@ -18,7 +18,7 @@ spec:
         app: webserver
     spec:
       containers:
-      - image: somabharathkumar/samplewebpage:16
+      - image: somabharathkumar/samplewebpage:17
         name: webserver
         resources: {}
 status: {}
